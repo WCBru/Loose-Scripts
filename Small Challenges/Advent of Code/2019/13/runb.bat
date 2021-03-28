@@ -1,0 +1,1 @@
+go run b.go intcode.go
